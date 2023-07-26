@@ -1,0 +1,11 @@
+{
+    "name": "asad/crud-generate",
+    "description": "A Laravel package for CRUD generation.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Asad\\CrudGenerate\\": "src/"
+        }
+    },
+    "require": {}
+}
